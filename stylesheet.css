@@ -1289,15 +1289,15 @@ audio {
 }
 
 .cake-cover {
-	margin-top: 50px;
+	margin-top: 30px;
 }
 .message {
-	margin-top: 150px;
+	margin-top: 100px;
 	display: none;
 }
 .message p {
 	font-family: 'Signika', sans-serif;
-	font-size: 30px;
+	font-size: 21px;
 	text-transform: uppercase;
 	color: #C4515C;
 	text-shadow: 2px 2px 2px #FFF;
